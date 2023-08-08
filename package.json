@@ -1,0 +1,14 @@
+{
+  "name": "my-jest-project",
+  "version": "1.0.0",
+  "description": "My Jest Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testMatch": ["**/__interviewtests__/*.test.js"]
+  },
+  "author": "Arkodeep",
+  "license": "ISC"
+}
